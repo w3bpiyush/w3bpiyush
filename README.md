@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Manna</h1>
-<p align="center">
+<p>
   Hi there! 👋 I'm Piyush Manna a developer who enjoys building things that are both useful and impactful. Whether it's creating intuitive user experiences or building backend systems that solve real-world problems, I genuinely enjoy the process of bringing ideas to life.  
 </p>
 
-<p align="center">
+<p>
   Right now, I'm working on projects like Bluetooth-connected mobile apps, Refurbished book selling platform that aim to solve real problems.<br>
   I'm most comfortable with JavaScript, Node.js, React, React Native (Expo), MongoDB, and Firebase, but I'm always exploring new tools and ideas.<br>
   If you're working on something interesting or just want to connect, feel free to reach out!
