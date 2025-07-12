@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Piyush Manna</h1>
-
-<p align="center">
-  🚀 Turning ideas into impact through code.
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 Hi there! 👋 I'm **Piyush Manna**, a developer who loves building projects that are both **useful** and **impactful**. Whether it's creating seamless user experiences apps or building backend systems that solve real-world problems. I love the challenge and creativity that comes with bringing ideas to life.
