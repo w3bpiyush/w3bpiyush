@@ -6,7 +6,7 @@ Hi there! 👋 I'm **Piyush Manna**, a developer who loves building projects tha
 
 ### 🔭 Current Projects
 
-- 📚 **Refurbished book selling platform** aiming to promote sustainable reading habits.
+- 📚 **Refurbished book selling platform** aiming to give side income to students.
   
 ---
 
