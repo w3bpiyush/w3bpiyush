@@ -6,7 +6,7 @@ Hi there! 👋 I'm **Piyush Manna**, a developer who loves building projects tha
 
 ### 🔭 Current Projects
 
-- 🪴 **AquaCrop AI** is an open-source solution designed to help farmers
+- **Comming Soon**
   
 ---
 
