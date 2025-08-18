@@ -1,10 +1,10 @@
 ### 👨‍💻 About Me
 
-Trying to make *Hello World* my everyday habit.
+Trying to make **Hello World** my everyday habit.
 
 I am a +2 student learning web and mobile development. I work with the MERN stack and React Native, and I enjoy creating small projects to understand concepts better.
 
-Technology interests me because of how smoothly it integrates into our daily lives. Skills I am learning include *SQL, JavaScript, Node.js, Express, MongoDB, React, Python and React Native*.
+Technology interests me because of how smoothly it integrates into our daily lives. Skills I am learning include **SQL, JavaScript, Node.js, Express, MongoDB, React, Python and React Native**.
 
 Outside of coding, I enjoy exploring new things, watching sports, and spending time with family and friends.
 
