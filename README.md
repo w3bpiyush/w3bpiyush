@@ -1,6 +1,12 @@
 ### 👨‍💻 About Me
 
-Hi there! 👋 I'm **Piyush Manna**, a developer who loves building projects that are both **useful** and **impactful**. Whether it's creating seamless user experiences apps or building backend systems that solve real-world problems. I love the challenge and creativity that comes with bringing ideas to life.
+Trying to make *Hello World* my everyday habit.
+
+I am a +2 student learning web and mobile development. I work with the MERN stack and React Native, and I enjoy creating small projects to understand concepts better.
+
+Technology interests me because of how smoothly it integrates into our daily lives. Skills I am learning include *SQL, JavaScript, Node.js, Express, MongoDB, React, Python and React Native*.
+
+Outside of coding, I enjoy exploring new things, watching sports, and spending time with family and friends.
 
 ---
 
