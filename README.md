@@ -12,7 +12,7 @@ Outside of coding, I enjoy exploring new things, watching sports, and spending t
 
 ### 🔭 Current Projects
 
-- **Comming Soon**
+- **HttpHub - API Testing Platform**
   
 ---
 
